@@ -44,6 +44,13 @@ Dưới đây là biểu đồ so sánh độ chính xác (`Accuracy`) giữa c�
 
 ![So sánh mô hình](model_comparison.png)
 
+### 📌 Nhận xét mô hình
+
+* 🥇 **Mạnh nhất — XGBoost (~65%):** Học tuần tự và xử lý xuất sắc dữ liệu dạng bảng, cho độ chính xác cao nhất để đem đi triển khai.
+* 🥉 **Yếu nhất — Decision Tree (~54%):** Dễ bị Overfitting (quá khớp dữ liệu cũ), dẫn đến khả năng dự đoán trận mới rất kém.
+* ⚖️ **Cân bằng nhất — Random Forest (~63%):** Điểm số cao sát nút XGBoost, chạy rất ổn định và không cần tinh chỉnh phức tạp.
+
+> **Kết luận:** Mức chính xác 60% – 65% là rất tốt vì bóng đá luôn có tính bất ngờ cao (thẻ đỏ, phong độ, chấn thương).
 ## ⚙️ Hướng dẫn cài đặt và sử dụng (How to Run)
 
 1. **Clone repository này về máy của bro:**
@@ -57,3 +64,7 @@ Dưới đây là biểu đồ so sánh độ chính xác (`Accuracy`) giữa c�
 3. **Chạy chương trình:**
      python fifa_worldcup.py
    
+## 👤 Tác giả (Author)
+
+- **Họ và tên:** Võ Hồ Quốc Anh
+- **Email:** vohoquocnanh2024@gmail.com
