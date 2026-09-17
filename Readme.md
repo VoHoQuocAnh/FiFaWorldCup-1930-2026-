@@ -43,3 +43,4 @@ Fifaworldcup_ML/
 Dưới đây là biểu đồ so sánh độ chính xác (`Accuracy`) giữa các mô hình phân loại:
 
 ![So sánh mô hình](model_comparison.png)
+<img width="1523" height="859" alt="image" src="https://github.com/user-attachments/assets/b1f5f7ec-e3a2-469d-a24c-66df60692281" />
