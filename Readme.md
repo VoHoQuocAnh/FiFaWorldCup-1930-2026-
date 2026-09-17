@@ -43,4 +43,17 @@ Fifaworldcup_ML/
 Dưới đây là biểu đồ so sánh độ chính xác (`Accuracy`) giữa các mô hình phân loại:
 
 ![So sánh mô hình](model_comparison.png)
-<img width="1523" height="859" alt="image" src="https://github.com/user-attachments/assets/b1f5f7ec-e3a2-469d-a24c-66df60692281" />
+
+## ⚙️ Hướng dẫn cài đặt và sử dụng (How to Run)
+
+1. **Clone repository này về máy của bro:**
+   ```bash
+   git clone [https://github.com/VoHoQuocAnh/Fifaworldcup_ML.git](https://github.com/VoHoQuocAnh/Fifaworldcup_ML.git)
+   cd Fifaworldcup_ML  ```
+
+2. **Cài đặt các thư viện:**
+   pip install -r requirements.txt
+
+3. ** Chạy chương trình:**
+   python fifa_worldcup.py
+   
