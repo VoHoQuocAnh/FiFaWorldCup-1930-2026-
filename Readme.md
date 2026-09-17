@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Status" />
 </p>
 
-Dự án áp dụng các kỹ thuật học máy (Machine Learning) để phân tích tập dữ liệu lịch sử các kỳ World Cup từ năm 1930 đến 2022. Mục tiêu là xây dựng quy trình huấn luyện, đánh giá và so sánh hiệu suất giữa các mô hình học máy trên 2 bài toán chính:
+Dự án áp dụng các kỹ thuật học máy (Machine Learning) để phân tích tập dữ liệu lịch sử các kỳ World Cup từ năm 1930 đến 2026. Mục tiêu là xây dựng quy trình huấn luyện, đánh giá và so sánh hiệu suất giữa các mô hình học máy trên 2 bài toán chính:
 1. **Hồi quy (Regression):** Dự đoán tổng số bàn thắng ghi được của Đội 1 (`total_goals_team1`).
 2. **Phân loại đa lớp (Multi-class Classification):** Dự đoán kết quả trận đấu giữa hai đội bóng: **Thắng (2)**, **Hòa (1)**, hoặc **Thua (0)**.
 
