@@ -52,8 +52,8 @@ Dưới đây là biểu đồ so sánh độ chính xác (`Accuracy`) giữa c�
    cd Fifaworldcup_ML  ```
 
 2. **Cài đặt các thư viện:**
-   pip install -r requirements.txt
+     pip install -r requirements.txt
 
 3. ** Chạy chương trình:**
-   python fifa_worldcup.py
+     python fifa_worldcup.py
    
