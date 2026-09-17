@@ -54,6 +54,6 @@ Dưới đây là biểu đồ so sánh độ chính xác (`Accuracy`) giữa c�
 2. **Cài đặt các thư viện:**
      pip install -r requirements.txt
 
-3. ** Chạy chương trình:**
+3. **Chạy chương trình:**
      python fifa_worldcup.py
    
