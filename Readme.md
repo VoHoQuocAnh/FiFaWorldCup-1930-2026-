@@ -38,6 +38,7 @@ Fifaworldcup_ML/
 ├── README.md                        # Tài liệu hướng dẫn dự án
 ├── requirements.txt                 # Danh sách các thư viện phụ thuộc
 └── .gitignore                       # Cấu hình bỏ qua file rác khi đẩy Git
+```
 ## 📊 Kết quả so sánh (Results)
 Dưới đây là biểu đồ so sánh độ chính xác (`Accuracy`) giữa các mô hình phân loại:
 
